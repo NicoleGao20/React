@@ -1,0 +1,26 @@
+html {
+  font-size: 26.66vw;
+}
+body {
+  margin: 0;
+  font-family: cursive;
+  font-size: 20px;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+.context {
+  position: absolute;
+  width: 100%;
+  top: 0.48rem;
+  bottom: 0.5rem;
+  background-color: #f6f6f6;
+  overflow: auto;
+}
